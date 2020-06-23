@@ -1,6 +1,6 @@
 # SharedPreferences
 
-This project is for learning Android App Development
+This project is for learning SharedPreferences Database in Android App Development
 
 ### Feature : SharedPreference Database
  - Create Data
